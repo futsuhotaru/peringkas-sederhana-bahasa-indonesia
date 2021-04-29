@@ -32,3 +32,4 @@
 [I 14:28:46.043 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+[W 14:32:06.651 NotebookApp] Notebook main.ipynb is not trusted
