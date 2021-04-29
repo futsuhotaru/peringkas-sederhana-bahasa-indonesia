@@ -60,3 +60,30 @@ TermSocket.open: Opened 1
 [I 17:39:26.425 NotebookApp] New terminal with automatic name: 1
 TermSocket.open: 1
 TermSocket.open: Opened 1
+Websocket closed
+[W 17:41:25.942 NotebookApp] Notebook main.ipynb is not trusted
+[I 17:41:26.438 NotebookApp] Kernel started: bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e, name: python3
+[I 17:41:26.438 NotebookApp] Culling kernels with idle durations > 600 seconds at 60 second intervals ...
+[I 17:41:26.438 NotebookApp] Culling kernels even with connected clients
+[I 17:41:30.890 NotebookApp] Starting buffering for bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e:0eeb983261a54cb2b05d918eba9bfef8
+[I 17:41:31.207 NotebookApp] Kernel restarted: bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e
+[I 17:41:31.974 NotebookApp] Restoring connection for bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e:0eeb983261a54cb2b05d918eba9bfef8
+[I 17:41:31.979 NotebookApp] Replaying 3 buffered messages
+[I 17:42:43.074 NotebookApp] Starting buffering for bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e:0eeb983261a54cb2b05d918eba9bfef8
+[I 17:43:14.905 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
+Websocket closed
+[W 17:48:00.380 NotebookApp] Notebook main.ipynb is not trusted
+[I 17:48:04.081 NotebookApp] Starting buffering for bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e:1c7e2cfa04a548669429353b2bb6c34e
+[I 17:48:04.514 NotebookApp] Kernel restarted: bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e
+[I 17:48:05.373 NotebookApp] Restoring connection for bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e:1c7e2cfa04a548669429353b2bb6c34e
+[I 17:48:05.377 NotebookApp] Replaying 6 buffered messages
+[I 17:50:01.971 NotebookApp] Saving file at /main.ipynb
+[I 17:52:01.253 NotebookApp] Kernel interrupted: bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e
+[I 17:52:01.515 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+kernel bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e restarted
+[I 17:52:06.371 NotebookApp] Starting buffering for bb5f42ce-ca8b-4c02-a477-2cfe0c48d79e:1c7e2cfa04a548669429353b2bb6c34e
+[I 17:52:11.461 NotebookApp] New terminal with automatic name: 3
+TermSocket.open: 3
+TermSocket.open: Opened 3
